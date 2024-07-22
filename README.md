@@ -117,3 +117,22 @@ Q.1 Add a media query to implement the following:
 3. the color of a div changes to red for width between 400px and 600px.
 
 4. the color of a div changes to blue for width above 600px.
+
+Transitions: These lets you enable you to define transition between two states of an element.
+1. transition-property
+2. transition-duration
+3. transition-timing-function
+4. transition-delay
+
+# Practaice Set 8
+
+1. Create a simple loader using CSS
+step-1: create a div with circular shape and a thick border from one end (top/bottom/right)
+step-2: To make it spin create an animation which transforms it from Odeg to 360deg.
+step-3: Add the animation property to the loader with infinite duration 
+
+# Note: Level-9-Projects only
+
+In this level we wil be building an amazon website. 
+
+
